@@ -1,0 +1,24 @@
+#info {
+    background: #333;
+    color: #fff;
+    text-align: center;
+}
+
+#info .contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 150px;
+    font-size: 9px;
+}
+
+.info-a {
+    margin: 10px;
+}
+
+.info-a img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+}
